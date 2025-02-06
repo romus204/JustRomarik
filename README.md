@@ -4,16 +4,16 @@ Hi! My name is Roman Chesnakov, and I'm a backend developer at [MAG](https://mag
 
 ## 🛠️ My Tech Stack
 
-- **Programming Languages**: Go (Golang), Lua, JavaScript
+- **Programming Languages**: Go (Golang), Lua, JavaScript, Python
 - **Databases**: PostgreSQL, ClickHouse, Redis
 - **Message Brokers & Queues**: NATS, Kafka
 - **Containerization & Orchestration**: Docker, Kubernetes (k8s)
 
-## 🚀 Experience and Interests
+## 🚀 Interests
 
+- **Neovim**: I actively use Neovim for development and constantly customize it to fit my needs. It's a powerful tool that helps me work efficiently.
 - **Cybersecurity**: I'm passionate about cybersecurity and always strive to apply best practices in my projects.
 - **Microcontrollers & Single-Board Computers**: In my free time, I enjoy programming microcontrollers and experimenting with single-board computers like Raspberry Pi, Orange Pi, and Arduino.
-- **Neovim**: I actively use Neovim for development and constantly customize it to fit my needs. It's a powerful tool that helps me work efficiently.
 
 ## 📫 How to Reach Me
 
